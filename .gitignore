@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.DS_Store
+data/raw/
+data/processed/
+docs/PLAN.md
+docs/latex/*.aux
+docs/latex/*.log
+docs/latex/*.fls
+docs/latex/*.fdb_latexmk
+docs/latex/*.out
